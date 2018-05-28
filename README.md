@@ -1,4 +1,4 @@
-# Mellon mp3 file cleaner
+# Melon mp3 file cleaner
 
 Removes redundant files in the Mellon mp3 download list
 
